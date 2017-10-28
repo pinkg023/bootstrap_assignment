@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+}
+
+.my-nav.navbar.navbar-default {
+  background: #EE7700
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+#about, #my-work, #contact-me { 
+padding-top: 70px; 
+}
